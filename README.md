@@ -20,14 +20,13 @@ SpringBoot5, python, node (podemos desenvolver nas 3 a partir dos mesmos requisi
 Selenium, Sikuli
 #### BackEnd
 Robot, Postman + Newman
-### Deploy local (na minha máquina funciona):
-Docker
+### Deploy local - Docker (na minha máquina funciona):
 #### Passos para subir o docker local:
 No diretório raiz do projeto, onde de encontra o Dockerfile execute os comandos:
   docker build . -t topdevcampinas/backend-spring:latest
   docker run -rm --name backend-spring topdevcampinas/backend-spring:latest
 ### Deploy AWS
-#### CodeBuild + CodeDeploy + CodePipeline
-#### CloudFormation + ECS
+####  CodeBuild + CodeDeploy + CodePipeline
+####  CloudFormation + ECS
 ### Deploy Google
 ### Deploy AlibabaCloud (sim, existe e está crescendo!!)
