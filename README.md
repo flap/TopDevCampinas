@@ -15,6 +15,7 @@ Qual/quais tecnologias?
 ## BackEnd: 
 SpringBoot5, python, node (podemos desenvolver nas 3 a partir dos mesmos requisitos)
 ## CI/CD:
+### Build a cada commit/aprovação de PR.
 ### Testes Automatizados:
 #### FrontEnd
 Selenium, Sikuli
@@ -30,3 +31,5 @@ No diretório raiz do projeto, onde de encontra o Dockerfile execute os comandos
 ####  CloudFormation + ECS
 ### Deploy Google
 ### Deploy AlibabaCloud (sim, existe e está crescendo!!)
+### Testes de Segurança (automatizados?)
+### Qualidade de código (PMD, CheckStyle, Sonar)
