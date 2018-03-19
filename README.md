@@ -84,16 +84,16 @@ No diretório raiz do projeto, onde de encontra o Dockerfile execute os comandos
 [lPhomenta]: <http://www.phomenta.com.br>
 [lZap]: <https://github.com/jenkinsci/zap-plugin>
 
-[lSP0001]: <https://github.com/flap/TopDevCampinas/edit/master/sprints/SP0001.md>
-[lSP0002]: <https://github.com/flap/TopDevCampinas/edit/master/sprints/SP0002.md>
-[lSP0003]: <https://github.com/flap/TopDevCampinas/edit/master/sprints/SP0003.md>
-[lSP0004]: <https://github.com/flap/TopDevCampinas/edit/master/sprints/SP0004.md>
-[lSP0005]: <https://github.com/flap/TopDevCampinas/edit/master/sprints/SP0005.md>
-[lSP0006]: <https://github.com/flap/TopDevCampinas/edit/master/sprints/SP0006.md>
-[lSP0007]: <https://github.com/flap/TopDevCampinas/edit/master/sprints/SP0007.md>
-[lSP0008]: <https://github.com/flap/TopDevCampinas/edit/master/sprints/SP0008.md>
-[lSP0009]: <https://github.com/flap/TopDevCampinas/edit/master/sprints/SP0009.md>
-[lSP0010]: <https://github.com/flap/TopDevCampinas/edit/master/sprints/SP0010.md>
+[lSP0001]: <https://github.com/flap/TopDevCampinas/blob/master/sprints/SP0001.md>
+[lSP0002]: <https://github.com/flap/TopDevCampinas/blob/master/sprints/SP0002.md>
+[lSP0003]: <https://github.com/flap/TopDevCampinas/blob/master/sprints/SP0003.md>
+[lSP0004]: <https://github.com/flap/TopDevCampinas/blob/master/sprints/SP0004.md>
+[lSP0005]: <https://github.com/flap/TopDevCampinas/blob/master/sprints/SP0005.md>
+[lSP0006]: <https://github.com/flap/TopDevCampinas/blob/master/sprints/SP0006.md>
+[lSP0007]: <https://github.com/flap/TopDevCampinas/blob/master/sprints/SP0007.md>
+[lSP0008]: <https://github.com/flap/TopDevCampinas/blob/master/sprints/SP0008.md>
+[lSP0009]: <https://github.com/flap/TopDevCampinas/blob/master/sprints/SP0009.md>
+[lSP0010]: <https://github.com/flap/TopDevCampinas/blob/master/sprints/SP0010.md>
 
 
 
