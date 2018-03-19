@@ -75,9 +75,10 @@ No diretório raiz do projeto, onde de encontra o Dockerfile execute os comandos
 #### Deploy GCP
 ##### ...
 
-# [Sprint 1 - Modelagem do projeto (Arquitetura, Modelo de dados, tecnologias)][lSP0001]
-# Sprint 2 ...
-# Sprint 3 ...
+# Sprints:
+* [Sprint 1 - Modelagem do projeto (Arquitetura, Modelo de dados, tecnologias)][lSP0001]
+* [Sprint 2 ...][lSP0002]
+* [Sprint 3 ...][lSP0003]
 
 
 [lPhomenta]: <http://www.phomenta.com.br>
